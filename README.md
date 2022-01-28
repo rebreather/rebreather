@@ -15,7 +15,7 @@
 ![AWS](https://img.shields.io/badge/-AmazonAWS-05122A?style=flat&logo=AmazonAWS)
 ![Git](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=GitHub)
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rebreather&show_icons=true&locale=en&layout=compact" alt="rebreather" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rebreather&show_icons=true&locale=en&layout=compact" alt="rebreather" /></p><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rebreather&show_icons=true&locale=en" alt="rebreather" /></p>
 
