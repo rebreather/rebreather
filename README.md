@@ -4,7 +4,7 @@
 
 - 📫 Email: **yds04116@gmail.com**
 <br>
-<p align="left"></p>
+<p align="left">
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -14,6 +14,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
 ![AWS](https://img.shields.io/badge/-AmazonAWS-05122A?style=flat&logo=AmazonAWS)
 ![Git](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=GitHub)
+</p>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rebreather&show_icons=true&locale=en&layout=compact" alt="rebreather" /></p><br>
 
