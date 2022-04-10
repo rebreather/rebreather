@@ -1,5 +1,5 @@
 <h2 align="left">👋 Lee GyuYeon</h2>
-<h5 align="left">✔이해하기 쉽고, 간단한 코딩 스타일을 지향합니다.</h5>
+<h5 align="left">✔이해하기 쉽고, 간단한 코딩 스타일을 지향합니다!.</h5>
 <h5 align="left">✔함께 공부하고 성장해 나가는 것을 지향합니다.🤗</h5>
 
 - 📫 Email: **yds04116@gmail.com**
