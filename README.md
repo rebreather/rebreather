@@ -9,7 +9,6 @@
 <h3 align="left">Languages and Tools:</h3>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=java&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)<br>
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
 ![AWS](https://img.shields.io/badge/-AmazonAWS-05122A?style=flat&logo=AmazonAWS)
