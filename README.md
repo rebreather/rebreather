@@ -7,14 +7,14 @@
 
 <p align="center">
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)<br>
-![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)<br>
+<img src="https://img.shields.io/badge/Javascript-05122A?style=flat-square&logo=javascript"/>
+<img src="https://img.shields.io/badge/Node.js-05122A?style=flat-square&logo=node.js"/><br>
+<img src="https://img.shields.io/badge/Vue.js-05122A?style=flat-square&logo=vue.js"/>
 
 </p>
 <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rebreather&show_icons=true&locale=en&layout=compact" alt="rebreather" /></p><br>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rebreather&show_icons=true&locale=en&layout=compact" alt="rebreather" /></p><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rebreather&show_icons=true&locale=en" alt="rebreather" /></p>
+<p align = "center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rebreather&show_icons=true&locale=en" alt="rebreather" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rebreather&" alt="rebreather" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rebreather&" alt="rebreather" /></p>
