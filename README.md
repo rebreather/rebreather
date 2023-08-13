@@ -7,7 +7,7 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Javascript-05122A?style=flat-square&logo=javascript"/>
+<img src="https://img.shields.io/badge/Typescript-05122A?style=flat-square&logo=typescript"/>
 <img src="https://img.shields.io/badge/Node.js-05122A?style=flat-square&logo=node.js"/><br>
 <img src="https://img.shields.io/badge/Vue.js-05122A?style=flat-square&logo=vue.js"/>
 
